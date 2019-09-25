@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/jurassic/obj/Debug/netcoreapp2.2/program.csprojAssemblyReference.cache
+/Users/Guest/Desktop/jurassic/obj/Debug/netcoreapp2.2/program.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/jurassic/obj/Debug/netcoreapp2.2/program.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/jurassic/obj/Debug/netcoreapp2.2/program.AssemblyInfo.cs
+/Users/Guest/Desktop/jurassic/bin/Debug/netcoreapp2.2/program.deps.json
+/Users/Guest/Desktop/jurassic/bin/Debug/netcoreapp2.2/program.runtimeconfig.json
+/Users/Guest/Desktop/jurassic/bin/Debug/netcoreapp2.2/program.runtimeconfig.dev.json
+/Users/Guest/Desktop/jurassic/bin/Debug/netcoreapp2.2/program.dll
+/Users/Guest/Desktop/jurassic/bin/Debug/netcoreapp2.2/program.pdb
+/Users/Guest/Desktop/jurassic/obj/Debug/netcoreapp2.2/program.dll
+/Users/Guest/Desktop/jurassic/obj/Debug/netcoreapp2.2/program.pdb
